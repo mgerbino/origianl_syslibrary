@@ -1,9 +1,0 @@
-README.md
-setup.py
-sysspectra/__init__.py
-sysspectra/model.py
-sysspectra/syslib.py
-sysspectra.egg-info/PKG-INFO
-sysspectra.egg-info/SOURCES.txt
-sysspectra.egg-info/dependency_links.txt
-sysspectra.egg-info/top_level.txt
